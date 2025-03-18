@@ -1,6 +1,6 @@
 TAS Interior Design Company Website
 
-![TAS Interior Design](https://tasinteriorsdesign.com/assets/img/logo.png) <!-- Add your banner image -->
+
 
 A modern website for TAS Interior Design Company showcasing services, portfolio, and client interactions. Built with frontend and backend technologies for a complete web experience.
 
